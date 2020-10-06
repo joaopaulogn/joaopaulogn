@@ -6,5 +6,5 @@
 
 - ❤️ In love by technology
 
-- 📚 I’m currently learning JavaScript
+- 📚 I’m currently learning TypeScript
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/joaopaulo-gn/) | [Twitter](https://twitter.com/joaopaulo_gn) | [Vercel](https://vercel.com/joaopaulogndev)
