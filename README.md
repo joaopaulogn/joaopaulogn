@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🇧🇷  Brazilian, 21 years old
-
-- 💻 Self-taught web developer
-
-- ❤️ In love by technology
-
-- 📚 I’m currently learning TypeScript
-- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/joaopaulo-gn/) | [Twitter](https://twitter.com/joaopaulo_gn) | [Vercel](https://vercel.com/joaopaulogndev)
+- Brazilian, 21 years old
+- I'm **Web Developer** and **eternal learner**
+- Currently learning **Java**, **React JS** and **Firebase authentication**
+- How to reach me:  [Linkedin](https://www.linkedin.com/in/joaopaulo-gn/) | [Vercel](https://vercel.com/joaopaulogndev)
