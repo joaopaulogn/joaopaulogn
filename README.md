@@ -1,4 +1,4 @@
-- 21 years old. **Web Developer** and **eternal learner**
-- Currently learning **Java**, **React JS** and **Firebase authentication**
+- 22 years old. **Web Developer** and **eternal learner**
+- Currently learning **React JS**, **database** and **backend notions**
 - Feel fre to contact me:  joaopaulogn.io@gmail.com or joaopaulogn.io@outlook.com
 - How to reach me:  [LinkedIn](https://www.linkedin.com/in/joaopaulo-gn/) & [Vercel](https://vercel.com/joaopaulogndev)
